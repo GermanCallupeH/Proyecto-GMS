@@ -1,4 +1,4 @@
-# ASDASD
+# Proyecto de Automatización
 
 # **Curso**
 Gestión del Mantenimiento de Software
@@ -8,5 +8,8 @@ MAC DOWALL REYNOSO, ERWIN
 
 # **Integrantes:** 
 * Callupe Huamán, Germán
-* asdasd
+* Victor Eduardo Tomasto Solis
+* Jhair Alejandro Ovenar Collado Jimenez
+* Jhon Bryan Gonzalez Villalobos
+
 
